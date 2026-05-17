@@ -81,6 +81,6 @@ Every quiz answer's "why" explanation, every exam scenario, and every drill ques
 
 ## Who built this
 
-This started as a single Claude.ai artifact — built by Michael Fernandez and Claude (Opus 4.7), end-to-end in one session, from the published playbook PDF. The artifact is the masterclass; this repo packages it as a runnable Vite project anyone can clone, deploy, and remix.
+This started as a single Claude.ai artifact — built by [Michael Fernandez](https://www.akerman.com/en/people/michael-fernandez) and Claude (Opus 4.7), end-to-end in one session, from the published playbook PDF. The artifact is the masterclass; this repo packages it as a runnable Vite project anyone can clone, deploy, and remix.
 
 If you make changes worth sharing — a corrected exam question, a new drill, a chapter update for a future playbook version — see [`CONTRIBUTING.md`](../CONTRIBUTING.md).
