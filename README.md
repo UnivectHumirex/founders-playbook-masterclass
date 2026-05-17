@@ -6,7 +6,8 @@ By the time someone clears all four stages, the drills, and the exam, they've ge
 
 ---
 
-[!Warning] 
+[!Warning]
+
 The contents of this repo are personal and reflect my own interests, not those of my employer, any firm I am or have been affiliated with, or any of their clients. Nothing posted here constitutes legal, financial, investment, tax, or any other professional advice, is intended to be relied upon as such, or creates an attorney-client, fiduciary, or other professional relationship. All content is provided as-is, for personal and educational purposes only, without any representation or warranty of accuracy, completeness, or fitness for any particular purpose. 
 
 "I’m still a dumb shit who doesn’t know much relative to what I need to know." - Ray Dalio
