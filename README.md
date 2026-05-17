@@ -16,11 +16,9 @@ By the time someone clears all four stages, the drills, and the exam, they've ge
 
 ## Live demo
 
-Once you push this repo to GitHub and enable Pages (see [Deploy](#deploy)), the masterclass will be live at:
+The masterclass will be live at:
 
-```
-https://<your-github-username>.github.io/<your-repo-name>/
-```
+[founders-playbook-masterclass](https://univecthumirex.github.io/founders-playbook-masterclass/)
 
 You can also run it locally — see [Quickstart](#quickstart).
 
