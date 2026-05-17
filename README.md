@@ -34,6 +34,9 @@ Each chapter weaves teaching slides with inline quizzes and tap-to-sort exercise
 
 Chapters unlock sequentially — the playbook's stages build on each other.
 
+<img width="559" height="884" alt="Screenshot 2026-05-16 at 10 58 29 PM" src="https://github.com/user-attachments/assets/69683fb1-10f3-4533-81f0-6faa89e6cb84" />
+
+
 ### Five Skill Drills — endless repeatable practice
 
 - **Pick the Right Claude** — match the task to the right surface (Chat / Cowork / Code)
@@ -49,6 +52,8 @@ Chapters unlock sequentially — the playbook's stages build on each other.
 ### The Field Guide
 
 Searchable reference of stages, surfaces, principles, and real founder stories — for when you just want to look something up.
+
+<img width="559" height="751" alt="Screenshot 2026-05-16 at 10 59 54 PM" src="https://github.com/user-attachments/assets/7d07d250-6906-4aa5-a063-c4d7f23d2608" />
 
 ### Progression
 
