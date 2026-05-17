@@ -1,6 +1,6 @@
 # The Founder's Playbook — Interactive Masterclass
 
-An interactive learning experience built from Anthropic's [Founder's Playbook](https://www.anthropic.com/founders-playbook). It turns the playbook into a guided 5-chapter curriculum with inline quizzes, five repeatable skill drills, a 24-question certification exam, and a searchable field guide — with XP, mastery badges, and a 7-tier founder progression that persists across sessions.
+An interactive learning experience built from Anthropic's [Founder's Playbook](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf). It turns the playbook into a guided 5-chapter curriculum with inline quizzes, five repeatable skill drills, a 24-question certification exam, and a searchable field guide — with XP, mastery badges, and a 7-tier founder progression that persists across sessions.
 
 By the time someone clears all four stages, the drills, and the exam, they've genuinely internalized the playbook — not just read it.
 
